@@ -38,19 +38,19 @@ MERN STACK PROJECT GUIDE
                  (3) axios
 
 
-1. Images page:  API: https://unsplash.com/documentation
+3. Images page:  API: https://unsplash.com/documentation
 
 ![image](https://user-images.githubusercontent.com/79877649/215948530-87a8cf29-97fe-48b8-84d2-d11724721bd1.png)
 
-2. Poetry page:  API: https://github.com/thundercomb/poetrydb/blob/master/README.md
+4. Poetry page:  API: https://github.com/thundercomb/poetrydb/blob/master/README.md
 
 ![image](https://user-images.githubusercontent.com/79877649/215949213-940cd339-bc03-4a39-9d2b-f3806ce4970d.png)
 
-3. Stories page with only login user
+5. Stories page with only login user
 
 ![image](https://user-images.githubusercontent.com/79877649/215949556-4f4ae0e2-61ff-4750-aca2-bf753c8d3ce2.png)
 
-4. Conditional show login / SignUp or DashBoard / Logout buttons on menu
+6. Conditional show login / SignUp or DashBoard / Logout buttons on menu
 
 ![image](https://user-images.githubusercontent.com/79877649/215950018-b2d23e23-1837-4a8b-b0be-9f7612242af3.png)
 
