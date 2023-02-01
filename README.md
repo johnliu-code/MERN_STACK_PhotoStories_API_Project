@@ -1,9 +1,9 @@
 # MERN_STACK_PhotoStories_API_Project
 
-cd backend, npm istall;
+cd backend, npm install;
 cd frondend npm install;
 
-if needed, run npm audit fix --force, for some issues
+if needed, run npm audit fix --force, (for some issues...)
 
 .env to add MONGODB_URI = mongodb://127.0.0.1:27017/storiesdb
 
